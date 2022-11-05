@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ALADIN-Network/ala-ecc4.git"
+    "url": "git://https://github.com/27Umer/ecc-alacritys.git"
   },
   "dependencies": {
     "bigi": "^1.4.2",
